@@ -28,4 +28,8 @@ CC メールアドレスはブラウザ内の IndexedDB にローカル保存さ
 
 ## お問い合わせ
 
-プライバシーに関するご質問は [GitHub Issues](https://github.com/akirita/chrome-extension-gmail-auto-cc/issues) までお願いします。
+プライバシーに関するご質問は、以下のいずれかからお願いします。
+
+- [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfrQz_yTwFpjaeRWGjzE1IYZQ9ZLzztu-ICdHORmjDRp5sRpQ/viewform)
+- メール: support@akirita-dev.com
+- [GitHub Issues](https://github.com/akirita/chrome-extension-gmail-auto-cc/issues)
