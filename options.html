@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Gmail Auto CC 設定</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Gmail Auto CC 設定</h1>
+    <p class="description">メール作成・返信時に自動でCCに追加するアドレスを管理します。</p>
+
+    <div class="input-group">
+      <input type="email" id="emailInput" placeholder="example@gmail.com">
+      <button id="addBtn">追加</button>
+    </div>
+    <p id="errorMsg" class="error" hidden></p>
+
+    <ul id="addressList"></ul>
+    <p id="emptyMsg" class="empty">CCアドレスが登録されていません。</p>
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>
